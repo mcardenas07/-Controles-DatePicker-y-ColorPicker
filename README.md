@@ -59,7 +59,7 @@ Lineas de codigo
 
 Explicación del codigo
 
-- **Paquete y Clases **
+- **Paquete y Clases**
 El código está en el paquete application y la clase principal es Main, que extiende la clase Application de JavaFX.
 
 - **Método start**

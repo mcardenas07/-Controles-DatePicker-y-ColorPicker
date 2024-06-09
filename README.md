@@ -1,8 +1,10 @@
 #PRACTICA DE COLORPICKER Y DATE PICKER
+
 ###Captura del código
 ![](https://i.ibb.co/MSw0rnT/2.png)
 
 ###Lineas de codigo
+
 	import javafx.application.Application;
 	import javafx.geometry.Insets;
 	import javafx.geometry.Pos;
@@ -55,7 +57,8 @@
 }
 
 ####Explicación del codigo
-- **Paquete y Clases **
+
+- **Paquete y Clases**
 El código está en el paquete application y la clase principal es Main, que extiende la clase Application de JavaFX.
 
 - **Método start**

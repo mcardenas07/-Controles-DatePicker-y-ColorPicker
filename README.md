@@ -5,6 +5,7 @@ Captura del código
 ![](https://i.ibb.co/MSw0rnT/2.png)
 
 Lineas de codigo
+
 	import javafx.application.Application;
 	import javafx.geometry.Insets;
 	import javafx.geometry.Pos;
